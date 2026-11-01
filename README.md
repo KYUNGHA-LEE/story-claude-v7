@@ -2,6 +2,9 @@
 
 `동화책 프롬프트 생성기_Claude/index.html`(2026.09.17)을 바탕으로 2026.11.01에 새로 만든 버전. 원본은 그대로 두고 이 폴더에만 변경을 담았다.
 
+- **배포 주소**: https://storybook-claude-v7.vercel.app/
+- **저장소**: https://github.com/KYUNGHA-LEE/story-claude-v7 (main에 푸시하면 Vercel이 자동 배포)
+
 ## 바뀐 점
 
 | 항목 | 이전(_Claude) | V7 |
